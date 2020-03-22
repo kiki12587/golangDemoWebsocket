@@ -2,6 +2,6 @@
 
 ### 学习参考
 
-直接启动server.go
+直接编译server.go
 
 双击client即可
